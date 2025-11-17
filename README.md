@@ -1,7 +1,6 @@
-# neural-network-from-scratch
-A fully functional neural network implementation from scratch using only NumPy. Features Adam optimizer, backpropagation, and achieves 96% accuracy on MNIST.
-=======
 # Neural Network from Scratch 🧠
+
+![Deep Learning Diagram](https://lamarr-institute.org/wp-content/uploads/deepLearn_2_EN.png)
 
 A fully functional neural network implementation built entirely from NumPy, featuring:
 - ✅ Forward and backward propagation
